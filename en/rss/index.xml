@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.2017.drupalcamp.pl/en" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>DrupalCamp Wrocław</title>
+ <link>http://www.2017.drupalcamp.pl/en</link>
+ <atom:link rel="self" href="http://www.2017.drupalcamp.pl/en/rss.xml" />
+ <language>en</language>
+ <pubDate>Mon, 05 Jun 2017 10:16:05 +0200</pubDate>
+ <lastBuildDate>Wed, 07 Jun 2017 09:29:50 +0200</lastBuildDate>
+ <item> <title>This is the end of Drupal.</title>
+ <link>http://www.2017.drupalcamp.pl/node/951</link>
+ <description>This is the end of Drupal. To be more precise, this is not the end of Drupal but Drupal Camp 2017.
+ 
+Yes, the title is clickbait :)
+ 
+Drupal is just getting started. It is possible thanks to the revolutionary changes that were introduced with version 8, but that&#039;s a different story. Here, we would like to sum up the conference.
+ </description>
+ <pubDate>Mon, 05 Jun 2017 10:16:05 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DrupalCamp 2017 - starts on Saturday!</title>
+ <link>http://www.2017.drupalcamp.pl/node/950</link>
+ <description>This Saturday, starting at 8.30 a.m., we will be accepting first visitors to the DrupalCamp Wroclaw conference. Participant registration will start 30 minutes before the first presentation. We have prepared a limited number of t-shirts and other gadgets for those who show up first.
+
+ 
+As every year presentations will be recorded, however a live stream will not be available. Videos will be published a few weeks after the conference.
+
+ </description>
+ <pubDate>Thu, 25 May 2017 13:51:18 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Voting complete.</title>
+ <link>http://www.2017.drupalcamp.pl/node/945</link>
+ <description>We finished the voting yesterday. The chosen lectures will be delivered during this year&#039;s DrupalCamp. We are glad that so many people are interested in it. Now we know what kind of topics draw your attention.
+</description>
+ <pubDate>Mon, 15 May 2017 20:20:17 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>New venue for the conference.</title>
+ <link>http://www.2017.drupalcamp.pl/node/319</link>
+ <description>This year the conference will take place at Hotel Campanile Wrocław Centrum placed at ul. Ślężna 26 in Wrocław, more details here: 
+If you need more information about the hotel, you can find it here: http://www.campanile-wroclaw-centrum.pl/pl 
+</description>
+ <pubDate>Thu, 11 May 2017 08:17:21 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>45 days until the conference.</title>
+ <link>http://www.2017.drupalcamp.pl/node/312</link>
+ <description>There are 45 days left until the conference. In a few weeks we have collected 11 propositions for lectures. Among them, there are lectures about object-oriented programming in Drupalu 8, some about Behat, as well as Elastic search, and Docker. There is a full list of the propositions on the website Proposed Sessions.
+You can send your propositions for lectures until 30 April 2017. </description>
+ <pubDate>Wed, 12 Apr 2017 22:05:35 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Drupalcamp Wrocław 2017  - Registration, lectures, support</title>
+ <link>http://www.2017.drupalcamp.pl/node/300</link>
+ <description>Another sixth edition of DrupalCamp conference is coming. It will take place on 27-28 May in Wrocław. The venue for the meeting will be Campanile Wrocław Centrum next to Ślężna Square  (the number of the building is 26).
+ </description>
+ <pubDate>Wed, 15 Feb 2017 12:55:27 +0100</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DRUPALCAMP 2017</title>
+ <link>http://www.2017.drupalcamp.pl/node/293</link>
+ <description>The next edition of the conference will be held on 27-28.05.2017. At the beginning of 2017 years we run a new website for the conference and it will inform about the details.
+</description>
+ <pubDate>Tue, 10 Jan 2017 10:13:59 +0100</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/en/rss.xml">DrupalCamp Wrocław</source>
+</item>
+</channel>
+</rss>

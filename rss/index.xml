@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.2017.drupalcamp.pl/" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>DrupalCamp Wrocław</title>
+ <link>http://www.2017.drupalcamp.pl/</link>
+ <atom:link rel="self" href="http://www.2017.drupalcamp.pl/rss.xml" />
+ <language>pl</language>
+ <pubDate>Mon, 05 Jun 2017 10:16:05 +0200</pubDate>
+ <lastBuildDate>Wed, 07 Jun 2017 09:29:50 +0200</lastBuildDate>
+ <item> <title>Drupal się skończył.</title>
+ <link>http://www.2017.drupalcamp.pl/node/951</link>
+ <description>Drupal się skończył. Właściwie to nie Drupal, a Drupal Camp 2017.
+ 
+Tytuł jest po to aby było więcej wejść na stronę ;)
+ 
+Sam Drupal się dopiero zaczyna, a to wszystko dzięki rewolucyjnym zmianom wprowadzonym od wersji 8, ale to już temat na inny artykuł. W tym newsie znajdzie się małe podsumowanie konferencji.
+Pierwsze spotkanie rozpoczynające prace nad konferencją odbyło się w listopadzie 2016 r. Przez ponad pół roku pracowaliśmy intensywnie nad przygotowaniem szóstej już edycji konferencji. DrupalCampa organizujemy nieprzerwanie od 2012 roku!</description>
+ <pubDate>Mon, 05 Jun 2017 10:16:05 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DrupalCamp 2017 - Startujemy już w sobotę!</title>
+ <link>http://www.2017.drupalcamp.pl/node/950</link>
+ <description>W sobotę już od godziny 8:30 będziemy czekać na pierwszych uczestników konferencji DrupalCamp Wrocław! Pół godziny przed pierwszym wykładem rozpoczniemy rejestrację uczestników. Dla pierwszych gości rozdamy koszulki i inne gadżety (ich liczba jest ograniczona, dlatego nie każdy dostanie).
+
+ 
+Jak co roku wykłady będą nagrywane, jednak tym razem nie będzie transmisji na żywo. Wideo z wykładów opublikujemy kilka tygodni po konferencji.
+
+ 
+W trakcie konferencji odbędzie się 12 wykładów, w tym 4 w języku angielskim. </description>
+ <pubDate>Thu, 25 May 2017 13:51:18 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Głosowanie zakończone.</title>
+ <link>http://www.2017.drupalcamp.pl/node/945</link>
+ <description>Wczoraj zakończyliśmy głosowanie na wykłady, które będą wygłoszone podczas tegorocznej edycji DrupalCamp. Cieszy nas duże zainteresowanie z waszej strony, dzięki temu wiemy jaka tematyka przyciąga waszą uwagę.
+</description>
+ <pubDate>Mon, 15 May 2017 20:20:17 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Zmiana lokalizacji wydarzenia.</title>
+ <link>http://www.2017.drupalcamp.pl/node/319</link>
+ <description>W tym roku konferencja odbędzie się w Hotelu Campanile Wrocław Centrum zlokalizowanym przy ulicy Ślężnej 26 we Wrocławiu, szczegółowe informacje znajdziesz na stronie Lokalizacja
+Więcej informacji o samym hotelu można uzykać na stronie http://www.campanile-wroclaw-centrum.pl/pl
+</description>
+ <pubDate>Thu, 11 May 2017 08:17:21 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>Do konferencji pozostało 45 dni</title>
+ <link>http://www.2017.drupalcamp.pl/node/312</link>
+ <description>Do konferencji pozostało 45 dni. Przez kilka tygodni zebraliśmy już 11 propozycji wykładów. Wśród propozycji są m.in. wykłady o programowaniu obiektowym w Drupalu 8, o Behat, Elastic search i Docker. Pełna lista propozycji jest dostępna na stronie Proponowane Sesje.
+Propozycje wykładów można zgłaszać do 30 kwietnia 2017. 
+Dotychczas 50 osób potwierdziło swoje uczestnictwo w konferencji. Listę uczestników można zobaczyć na tej stronie.</description>
+ <pubDate>Wed, 12 Apr 2017 22:05:35 +0200</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DrupalCamp Wrocław 2017 - rejestracja, wykłady, wsparcie</title>
+ <link>http://www.2017.drupalcamp.pl/node/300</link>
+ <description>Kolejna, szósta już edycja konferencji DrupalCamp przed nami. Odbędzie się ona w dniach 27-28 maja we Wrocławiu.Miejscem spotkania będzie Hotel Restaurant Campanile Wrocław Centrum na ul. Ślężna 26
+ </description>
+ <pubDate>Wed, 15 Feb 2017 12:55:27 +0100</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+ <item> <title>DRUPALCAMP 2017</title>
+ <link>http://www.2017.drupalcamp.pl/node/293</link>
+ <description>Kolejna edycja konferencji odbędzie się w dniach 27-28.05.2017. Na początku 2017 roku uruchomimy nową stronę internetową dla konferencji i na niej będziemy informować o szczegółach. 
+</description>
+ <pubDate>Tue, 10 Jan 2017 10:13:59 +0100</pubDate>
+ <source url="http://www.2017.drupalcamp.pl/rss.xml">DrupalCamp Wrocław</source>
+</item>
+</channel>
+</rss>
